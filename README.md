@@ -45,16 +45,6 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
-## Usage Instructions
-1. Open the cloned repository in any source code editor e.g. Visual Studio Code.
-2. Open integrated terminal on index.js
-3. Enter “node index.js” in the command line
-4. Through sequential order within the command line interface - the user will be presented with npm inquirer questions - the user will provide a response to each question and proceed.
-5. Once completed a SVG file named "logo.svg" will be created.
-6. At your discretion, you may rename the "logo.svg" file to the file name of your choice.
-7. (Optional) Regarding future use, you may alter the prompted questions within the index.js to best suit your needs.
-8. (Optional) The SVG Logo Maker serves as a foundation so you are not limited to altering the files (as you have my permission) to create the best possible "logo.svg" file.
-
 
 ## Screenshots:
 ### Figure 1. Command line application
@@ -72,7 +62,6 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 - Node.js [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
 - Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
 - Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
-- License Badge: [Shields.io](https://shields.io/)
 - Visual Studio Code: [Website](https://code.visualstudio.com/)
 
 ## What I Learned

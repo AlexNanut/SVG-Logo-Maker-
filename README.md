@@ -8,7 +8,7 @@ The application enables users to enter inputs into a inquirer prompt in order to
 ## Table of Contents:
 - [Overview](#Overview)
 - [The Challenge](#The-Challenge)
-- [Usage Information](#Usage-Information)
+- [Acceptance Criteria](#Acceptance-Criteria)
 - [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
 - [Continued Development](#Continued-Development)
@@ -53,7 +53,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ### Figure 2. Jest Testing "npm test"
 <img width="1440" alt="Command line Jest testing" src="https://user-images.githubusercontent.com/108309770/233906969-beac1192-a8e3-4b4a-946f-1537c94b5311.png">
 
-
+### Link to the walkthrough video 
 
 
 ## Built With

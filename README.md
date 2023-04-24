@@ -54,7 +54,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 <img width="1440" alt="Command line Jest testing" src="https://user-images.githubusercontent.com/108309770/233906969-beac1192-a8e3-4b4a-946f-1537c94b5311.png">
 
 ### Link to the walkthrough video 
-
+https://drive.google.com/file/d/1q7BDCz6ofHcrF6snQK1ACR_-eV1ydtxQ/view 
 
 ## Built With
 

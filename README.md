@@ -59,10 +59,10 @@ https://drive.google.com/file/d/1q7BDCz6ofHcrF6snQK1ACR_-eV1ydtxQ/view
 ## Built With
 
 - Dynamic JavaScript
-- Node.js [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
-- Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
-- Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
-- Visual Studio Code: [Website](https://code.visualstudio.com/)
+- Node.js 
+- Jest 
+- Inquirer.js
+- Visual Studio Code
 
 ## What I Learned
 - Create an non-deployed application that invokes a “node index.js” in the command line to generate a logo and save it as a SVG file.
